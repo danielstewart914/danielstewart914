@@ -30,7 +30,7 @@
 
 ## Stats
 <p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielstewart914&show_icons=true&theme=blue-green" alt="Daniel's GitHub Stats" width="48%">&nbsp;
-  <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=blue-green" alt="Daniel's GitHub Streak" width="51%">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielstewart914&show_icons=true&theme=blue-green" alt="Daniel's GitHub Stats" width="47%">&nbsp;
+  <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=blue-green" alt="Daniel's GitHub Streak" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstewart914&theme=blue-green" alt="Daniel's Top Languages">
 </p>
