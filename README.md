@@ -2,12 +2,12 @@
 
 ## Repositories
 <p align="middle">
-  <a href="https://github.com/danielstewart914/JOIN-our-table"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=JOIN-our-table&theme=blue-green" alt="BeanBuddy Car" height="175" width="48%"></a>&nbsp;
-  <a href="https://github.com/danielstewart914/beanBudd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=beanBuddy&theme=blue-green" alt="JOIN Our Table Card" height="175" width="48%"></a>&nbsp;
-  <a href="https://github.com/danielstewart914/cards-for-jokes-v2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=cards-for-jokes-v2.0&theme=blue-green" alt="Cards For Jokes Card" height="175" width="48%"></a>&nbsp;
-  <a href="https://github.com/danielstewart914/fullstack-tech-blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=fullstack-tech-blog&theme=blue-green" alt="Full Stack Tech Blog Card" height="175" width="48%"></a>&nbsp;
-  <a href="https://github.com/danielstewart914/weather-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=quiz-game&theme=blue-green" alt="Weather Dashboard Card" height="175" width="48%"></a>&nbsp;
-  <a href="https://github.com/danielstewart914/quiz-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danielstewart914&repo=weather-dashboard&theme=blue-green" alt="Quiz Game Card" height="175" width="48%"></a>
+  <a href="https://github.com/danielstewart914/JOIN-our-table"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=JOIN-our-table&theme=blue-green" alt="BeanBuddy Car" height="175" width="48%"></a>&nbsp;
+  <a href="https://github.com/danielstewart914/beanBudd"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=beanBuddy&theme=blue-green" alt="JOIN Our Table Card" height="175" width="48%"></a>&nbsp;
+  <a href="https://github.com/danielstewart914/cards-for-jokes-v2.0"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=cards-for-jokes-v2.0&theme=blue-green" alt="Cards For Jokes Card" height="175" width="48%"></a>&nbsp;
+  <a href="https://github.com/danielstewart914/fullstack-tech-blog"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=fullstack-tech-blog&theme=blue-green" alt="Full Stack Tech Blog Card" height="175" width="48%"></a>&nbsp;
+  <a href="https://github.com/danielstewart914/weather-dashboard"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=quiz-game&theme=blue-green" alt="Weather Dashboard Card" height="175" width="48%"></a>&nbsp;
+  <a href="https://github.com/danielstewart914/quiz-game"><img src="https://github-readme-stats-psi-five-18.vercel.app/api/pin/?username=danielstewart914&repo=weather-dashboard&theme=blue-green" alt="Quiz Game Card" height="175" width="48%"></a>
 </p>
 
 ## Proficiencies  
@@ -30,7 +30,7 @@
 
 ## Stats
 <p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielstewart914&show_icons=true&theme=blue-green" alt="Daniel's GitHub Stats" width="47%">&nbsp;
+  <img src="https://github-readme-stats-psi-five-18.vercel.app/api?username=danielstewart914&show_icons=true&theme=blue-green" alt="Daniel's GitHub Stats" width="47%">&nbsp;
   <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=blue-green" alt="Daniel's GitHub Streak" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstewart914&theme=blue-green" alt="Daniel's Top Languages">
+  <img src="https://github-readme-stats-psi-five-18.vercel.app/api/top-langs/?username=danielstewart914&theme=blue-green" alt="Daniel's Top Languages">
 </p>
