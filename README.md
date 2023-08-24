@@ -60,7 +60,7 @@
 
 ## Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Daniel's GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=transparent&hide_border=true&mode=weekly&card_width=500&ring=F58A07&fire=CC0003" alt="Daniel's GitHub Streak">
   <img src="https://github-readme-stats-psi-five-18.vercel.app/api?username=danielstewart914&hide_border=true&hide=stars&show_icons=true&theme=transparent&card_width=500" alt="Daniel's GitHub Stats">
 </p>
 <p align="center">
