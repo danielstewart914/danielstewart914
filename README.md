@@ -3,6 +3,7 @@
 ## Proficiencies
 
 ### Languages
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="./images/HTML5.svg" alt="HTML 5" height="35">
 </a>
@@ -17,6 +18,7 @@
 </a>
 
 ### Front-End
+
 <a href="https://reactjs.org/">
   <img src="./images/React.svg" alt="React" height="35">
 </a>
@@ -28,6 +30,7 @@
 </a>
 
 ### Back-End
+
 <a href="https://nodejs.org/en/">
   <img src="./images/Nodejs.svg" alt="Node.js" height="35">
 </a>
@@ -48,6 +51,7 @@
 </a>
 
 ### APIs & Services
+
 <a href="https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/">
   <img src="./images/Restful.svg" alt="Rest APIs" height="35">
 </a>
@@ -56,11 +60,12 @@
 </a> 
 <a href="https://aws.amazon.com/s3/">
   <img src="./images/AmazonS3.svg" alt="Amazon S3" height="35">
-</a> 
+</a>
 
 ## Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danielstewart914&theme=transparent&hide_border=true&mode=weekly&card_width=500&ring=F58A07&fire=CC0003" alt="Daniel's GitHub Streak">
+  <img src="https://github-readme-streak-stats-virid.vercel.app?user=danielstewart914&theme=transparent&hide_border=true&mode=weekly&card_width=500&ring=F58A07&fire=CC0003" alt="Daniel's GitHub Streak">
   <img src="https://github-readme-stats-psi-five-18.vercel.app/api?username=danielstewart914&hide_border=true&hide=stars&show_icons=true&theme=transparent&card_width=500" alt="Daniel's GitHub Stats">
 </p>
 <p align="center">
